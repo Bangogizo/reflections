@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Answer: when a directory is initialize as a repository, an empty Git repository is initialized.And this is needed to monitor changes made in that repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Answer:The working directory is where file are created and saved while the staging area is where files that are to be committed are kept.
