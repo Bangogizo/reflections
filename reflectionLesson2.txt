@@ -3,3 +3,6 @@ Answer: when a directory is initialize as a repository, an empty Git repository 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Answer:The working directory is where file are created and saved while the staging area is where files that are to be committed are kept.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Answer:by comparing the value of the staging area to the repository before commiting to know if changes are necessary.
