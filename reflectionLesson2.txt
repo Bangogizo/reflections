@@ -12,3 +12,6 @@ Answer:like a sandbox, Branches would be helpful when it comes to creating exper
 
 How do the diagrams help you visualize the branch structure?
 Answer: Very vivid and helpful to understand the way branches are structured
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Answer: The reason why we merge two branches  is so to update changes made in the branches not yet in the master. And for representing it in a diagram form, this vividly shows how the structure of the master branch and the secondary branch are laid out.
