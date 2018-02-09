@@ -6,3 +6,9 @@ Answer:The working directory is where file are created and saved while the stagi
 
 How can you use the staging area to make sure you have one commit per logical change?
 Answer:by comparing the value of the staging area to the repository before commiting to know if changes are necessary.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Answer:like a sandbox, Branches would be helpful when it comes to creating experimental features or ideas to be implemented later without breaking the master.
+
+How do the diagrams help you visualize the branch structure?
+Answer: Very vivid and helpful to understand the way branches are structured
