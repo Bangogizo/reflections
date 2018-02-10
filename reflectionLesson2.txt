@@ -15,3 +15,6 @@ Answer: Very vivid and helpful to understand the way branches are structured
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Answer: The reason why we merge two branches  is so to update changes made in the branches not yet in the master. And for representing it in a diagram form, this vividly shows how the structure of the master branch and the secondary branch are laid out.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Answer: doing Git's automatically makes merging way faster than manual merge where the pain of going through the files to find what changed is quite an hassle and a slow process.
