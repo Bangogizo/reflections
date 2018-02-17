@@ -9,3 +9,6 @@ Answer: Fork is a tool similar to clones but different in function because it is
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Answer: Having a copy of the last known state of the remote stored locally helps in keeping or remembering the state of the remote master since it was last pull or updated.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Answer:I would use Google doc or dropbox.But none of this would be as easier as Git given that they would be no option or the benefit of pull request.
