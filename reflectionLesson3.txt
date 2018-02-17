@@ -7,5 +7,5 @@ Answer: Doing a manual pull by myself enables me to choose what to bring into my
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Answer: Fork is a tool similar to clones but different in function because it is a command employ only to clone another repo within Github. While Clone is used to create a copy of a repository from Github to a local directory. And branch shares no semblance to any of the two, because branches as the name implies is a branch created out of a master in a repo to work on experimental features without breaking the code.
 
-What is the benefit of having a copy of the last known state of the remote stored olcally?
+What is the benefit of having a copy of the last known state of the remote stored locally?
 Answer: Having a copy of the last known state of the remote stored locally helps in keeping or remembering the state of the remote master since it was last pull or updated.
