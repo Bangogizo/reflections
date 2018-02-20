@@ -12,3 +12,6 @@ Answer: Having a copy of the last known state of the remote stored locally helps
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Answer:I would use Google doc or dropbox.But none of this would be as easier as Git given that they would be no option or the benefit of pull request.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Ansewer:For changes that require adding extra features or experimentation on some idea, a separate branch would serve. And also in the case of updating a remote that involves a lot of contributors, branch is a better option just to avoid breaking the master branch while fixing or adding new features needed to be added later on. But in the case of 
